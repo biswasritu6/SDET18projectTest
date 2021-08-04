@@ -1,0 +1,12 @@
+{
+        "empName": "Dhoni",
+        "mobileNo": "7259229999",
+        "email": "demoacc@gmail.com",
+        "dob": null,
+        "experience": 6.0,
+        "username": "ritu7501666",
+        "designation": "SDET",
+        "password": "$2a$10$Ax.dxc9NbbEvj3DoCJWOTOUpNsuCWIr68DMXjjD6sXy4TGyaY8.2i",
+        "role": "ROLE_ADMIN",
+        "project": "assignmnt2"
+    }
